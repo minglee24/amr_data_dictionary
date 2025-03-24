@@ -6,11 +6,9 @@ title: "AMR_data_dictionary2"
 
 This web page will provide metadata information about the data files used for the course Introduction to R, databases and reproducibility for AMR epidemiology
 
-<<<<<<< HEAD
+
 ###Data files:
-=======
-### Data files:
->>>>>>> 14f2a48f9609ad195051efe0cee5c5dcadbd6034
+
 - gapminder_data.csv
 - gapminder_wide.csv
 - gapminder_FiveYearData.csv
@@ -18,9 +16,5 @@ This web page will provide metadata information about the data files used for th
 - icd10_data.csv
 - dig_health_hub_amr_v2.csv 
 
-<<<<<<< HEAD
-#I am making a change here 
-=======
 chaning data format 
 
->>>>>>> 14f2a48f9609ad195051efe0cee5c5dcadbd6034
