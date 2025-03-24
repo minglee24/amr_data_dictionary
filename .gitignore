@@ -4,4 +4,4 @@
 .Ruserdata
 *.Rproj
 *.png
-/graphs
+graphs/
